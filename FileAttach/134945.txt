@@ -1,0 +1,8 @@
+sp_Asset_Insert_mst
+
+asset_computername_mst 
+
+sp_Get_UserLogin_By_UserName_Like_mst
+
+
+and Asset_mst tables attached some columns

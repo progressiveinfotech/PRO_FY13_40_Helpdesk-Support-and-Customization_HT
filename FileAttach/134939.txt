@@ -1,0 +1,6 @@
+[sp_breachOPENCLOSEDcallcountgpi]
+[sp_breachcalldescriptioninopencallgpi]
+[sp_breachcalldescriptioninclosedcallgpi]
+REPORT NAME:Category_Severity_CallCount_GPI.rdl
+REPORT NAME:openbreachcallgpi
+REPORT NAME:breachcallgpi

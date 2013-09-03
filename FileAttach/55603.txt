@@ -1,0 +1,6 @@
+
+1	Onc SSC will be fully functional, it will be a process flow so conflicting rights will not become a problem.
+	Need to discuss this with Auditors.
+2	Park & post in a specific gl
+3	Fresh authorosations to be downloaded from system and to be checked by SAP & Finance Team.
+4	
